@@ -1,5 +1,5 @@
 # Javascript
-- [Scopes](javascript/scopes.md)
+- [Scopes](javascript/scope.md)
 - [Web Locks Api](javascript/web_locks_api.md)
 
 # Typescript
