@@ -17,7 +17,7 @@
 - [What are the differences between the private keyword and private fields in TypeScript?](typescript/private_fields.md)
 
 # SQL
-- ACID
+- [ACID](sql/acid.md)
 - indexes
 - Sharding
 - Explain
