@@ -23,7 +23,7 @@ In Postgres `Repeatable Reads` are actually `Snapshots`. This is why we don't ge
 ## Consistency in Reads
 - If a transaction commited a change, will a new transaction see the change ?
 - Affects the system as a whole, even if we have master and slaves databases
-- Relational and NoSQL Databases suffers of it both
+- Relational and NoSQL Databases suffers of it both (horizental scaling)m and add caching
 - Eventual Consistency
 
 # Durability
