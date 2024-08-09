@@ -18,6 +18,8 @@
 
 # SQL
 - [ACID](sql/acid.md)
+- [Explain](https://www.youtube.com/watch?v=P7EUFtjeAmI)
+- [Row Based vs Column Based Databases](sql/comparaison_row_based_column_based_databases.md)
 - indexes
 - Sharding
 - Explain
