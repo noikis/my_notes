@@ -3,7 +3,7 @@
 - [Web Locks Api](javascript/web_locks_api.md)
 
 # Node.js
-- Async Hooks
+- [Async Local Storage](https://youtu.be/dTBVhFryQds)
 - Performance Hooks
 - Buffers
 - Streams
